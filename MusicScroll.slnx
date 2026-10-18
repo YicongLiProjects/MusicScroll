@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="MusicScroll/MusicScroll.Android/MusicScroll.Android.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="MusicScroll/MusicScroll.Desktop/MusicScroll.Desktop.csproj" />
+  <Project Path="MusicScroll/MusicScroll/MusicScroll.csproj" />
+</Solution>
