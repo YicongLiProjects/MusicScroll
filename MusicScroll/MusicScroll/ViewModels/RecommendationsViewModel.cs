@@ -2,7 +2,7 @@
 
 namespace MusicScroll.ViewModels;
 
-public partial class MainViewModel : ViewModelBase
+public partial class RecommendationsViewModel : ViewModelBase
 {
 
 }
