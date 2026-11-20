@@ -50,7 +50,16 @@
             <TextBox FontSize="20"></TextBox>
             <Label FontSize="50">Genres</Label>
             <TextBox FontSize="20"></TextBox>
-            <Label FontSize="30">Note: please separate each keyword by a comma</Label>
+            <Label FontSize="30">Note: please separate each keyword or genre by a comma</Label>
+        </StackPanel>
+    </ContentPage>
+    <ContentPage Header="Download new songs">
+        <StackPanel>
+            <Label FontSize="40">Royalty free songs download links</Label>
+            <HyperlinkButton NavigateUri="https://ncs.io/free-music" Content="NoCopyrightSounds" FontSize="25"></HyperlinkButton>
+            <HyperlinkButton NavigateUri="https://pixabay.com/music/" Content="Pixabay" FontSize="25"></HyperlinkButton>
+            <HyperlinkButton NavigateUri="https://incompetech.com/music/royalty-free/////music.html" Content="Kevin MacLeod" FontSize="25"></HyperlinkButton>
+            <Label FontSize="25">More links incoming!</Label>
         </StackPanel>
     </ContentPage>
 </TabbedPage>
